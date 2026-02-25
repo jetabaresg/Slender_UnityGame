@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e6635b5d95e70a74d8b1863e3ee43787
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301037
+  packageName: Big Poplar Tree FREE
+  packageVersion: 1.0
+  assetPath: Assets/ALP_Assets/Poplar Tree FREE/Shaders/Billboard.shader
+  uploadId: 704319
