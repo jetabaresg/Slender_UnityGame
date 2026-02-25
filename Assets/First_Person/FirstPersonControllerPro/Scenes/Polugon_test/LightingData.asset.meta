@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3db13b938b77b347a2eaae98c9a60b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331498
+  packageName: First Person Controller Pro
+  packageVersion: 2.2
+  assetPath: Assets/ElmanGameDevTools/FirstPersonControllerPro/Scenes/Polugon_test/LightingData.asset
+  uploadId: 841652
