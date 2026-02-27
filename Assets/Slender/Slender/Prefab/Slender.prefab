@@ -1137,6 +1137,7 @@ GameObject:
   - component: {fileID: 1010010733671478586}
   - component: {fileID: 6957573965259036736}
   - component: {fileID: 2891481974308657385}
+  - component: {fileID: 6603279080780981036}
   m_Layer: 0
   m_Name: Slender
   m_TagString: Untagged
@@ -1179,6 +1180,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &6603279080780981036
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4061999138098054953}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.28
+  m_Height: 2.05
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.02, z: 0}
 --- !u!82 &2891481974308657385
 AudioSource:
   m_ObjectHideFlags: 0
