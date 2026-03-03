@@ -305,6 +305,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1251509006}
   - component: {fileID: 1251509005}
+  - component: {fileID: 1251509008}
   - component: {fileID: 1251509004}
   - component: {fileID: 1251509007}
   m_Layer: 0
@@ -403,6 +404,27 @@ WindZone:
   m_WindTurbulence: 1
   m_WindPulseMagnitude: 0.5
   m_WindPulseFrequency: 0.01
+--- !u!114 &1251509008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1251509003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc6904f9895e2544bba49b0e65a075e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TreeWindSway
+  affectChildren: 1
+  extraLeafTargets: []
+  swayAngle: 4
+  swaySpeed: 1.5
+  turbulence: 0.8
+  swayAxis: {x: 0, y: 0, z: 1}
+  windDirection: {x: 1, y: 0, z: 0}
+  spatialVariation: 0.2
+  useUnscaledTime: 0
 --- !u!1001 &1297212128
 PrefabInstance:
   m_ObjectHideFlags: 0
